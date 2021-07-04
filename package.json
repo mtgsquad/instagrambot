@@ -1,0 +1,17 @@
+{
+  "name": "hellobot",
+  "version": "1.0.0",
+  "description": "A Bot for instagram",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Mahir Molai",
+  "license": "MIT",
+  "dependencies": {
+    "@arashgh/insta.js": "1.8.5"
+  }
+}
