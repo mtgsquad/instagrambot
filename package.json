@@ -12,6 +12,6 @@
   "author": "Mahir Molai",
   "license": "MIT",
   "dependencies": {
-    "@arashgh/insta.js": "1.8.5"
+    "@androz2091/insta.js": "1.8.5"
   }
 }
